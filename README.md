@@ -9,6 +9,9 @@ without having to worry about how to organize your project.
 
 1. Clone the Repository.
 2. Remove the remote origin after cloning.
+'''
+git remote rm origin
+'''
 3. Start building your project.
 
 ## What is everything?
