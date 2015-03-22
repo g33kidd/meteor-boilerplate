@@ -7,9 +7,13 @@ without having to worry about how to organize your project.
 
 ## How To Use
 
-1. Clone the Repository.
-2. Remove the remote origin after cloning.
-3. Start building your project.
+Clone the Repository.
+
+Remove the remote origin after cloning.
+```
+git remote rm origin
+```
+Start building your project.
 
 ## What is everything?
 
